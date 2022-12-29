@@ -1,6 +1,6 @@
 How to run **index.py**? 
 
-```
+
 1. Complete the google forms and change the link from viewResponse to formResponse
 
 > Ex: https://docs.google.com/forms/d/e/1FAIpQLSdRvvKSHrRSgKKnECA9TRTlUuWTRfkB9ZT8VBY0GltUcJ5i-w/**viewform**
@@ -10,5 +10,4 @@ How to run **index.py**?
 
 3. Copy the entry.values
 > Note: If there is a required email field, the etnry value will just be **emailAddress**
-```
-**Test**
+
