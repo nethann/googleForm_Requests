@@ -9,9 +9,12 @@ How to run **index.py**?
 > To: https://docs.google.com/forms/d/e/1FAIpQLSdRvvKSHrRSgKKnECA9TRTlUuWTRfkB9ZT8VBY0GltUcJ5i-w/formResponse
 
 2. Google forms entries can be found in
- - inspe
- Inspect>Network>formResponse>Payload)
+ - Inspect
+ - Network
+ - formResponse
+ - Payload
 
 3. Copy the entry.values
-> Note: If there is a required email field, the etnry value will just be **emailAddress**
+
+> Note: If there is a required email field, the entry value will just be **emailAddress**
 
